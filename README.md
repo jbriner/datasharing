@@ -42,7 +42,7 @@ raw form of data:
 * The unformatted Excel file with 10 worksheets the company you contracted with sent you
 * The complicated [JSON](http://en.wikipedia.org/wiki/JSON) data you got from scraping the [Twitter API](https://twitter.com/twitterapi)
 * The hand-entered numbers you collected looking through a microscope
-
+xvdfv
 You know the raw data is in the right format if you: 
 
 1. Ran no software on the data
