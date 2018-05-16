@@ -45,7 +45,7 @@ raw form of data:
 xvdfv
 You know the raw data is in the right format if you: 
 
-1. Ran no software on the data
+1. Ran no software on the datawef 
 1. Did not manipulate any of the numbers in the data
 1. You did not remove any data from the data set
 1. You did not summarize the data in any way
